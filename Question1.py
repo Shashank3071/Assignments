@@ -39,6 +39,8 @@ else:
 
 # print(twins)
 
+#if you pull this code and run just change "Shashank Gupta"
+
 file = open(r"C:\Users\Shashank Gupta\Documents\git_test\myFirstFile", "w+")
 # file.write(twins)
 
