@@ -39,7 +39,7 @@ else:
 
 # print(twins)
 
-file = open(r"C:\Users\Shashank Gupta\Documents\myFirstFile", "w+")
+file = open(r"C:\Users\Shashank Gupta\Documents\git_test\myFirstFile", "w+")
 # file.write(twins)
 
 for pair in twins:
@@ -49,7 +49,7 @@ file.close()
 
 # please uncomment this code in order to read file
 
-# file = open(r"C:\Users\Shashank Gupta\Documents\myFirstFile", "r")
+# file = open(r"C:\Users\Shashank Gupta\Documents\git_test\myFirstFile", "r")
 # print(file.readlines())
 
 # file.close()
